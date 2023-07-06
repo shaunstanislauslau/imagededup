@@ -32,7 +32,7 @@ setup(
         'numpy==1.16.3',
         'Pillow==6.0.0',
         'PyWavelets==1.0.3',
-        'scipy==1.2.1',
+        'scipy==1.10.0',
         'tensorflow==2.0.0',
         'tqdm==4.35.0',
         'scikit-learn==0.21.2',
